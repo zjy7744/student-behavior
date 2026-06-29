@@ -1,4 +1,3 @@
-[student_behavior_research-html.html](https://github.com/user-attachments/files/29470614/student_behavior_research-html.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
